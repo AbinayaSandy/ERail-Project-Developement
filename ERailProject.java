@@ -1,5 +1,6 @@
 package seleniumLearning;
 //Author: Abinaya
+//Try to include Selenium table handling
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
